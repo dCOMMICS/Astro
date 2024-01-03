@@ -1,1 +1,1 @@
-import './style.css'
+import '/Portfolio/styles/style.css'
